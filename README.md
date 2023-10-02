@@ -1,2 +1,3 @@
-# RAHB_Area_Shapefiles_Comparison
-<https://rahb-realtors-association.github.io/RAHB_Area_Shapefiles_Comparison/>
+# Area Shapefiles Comparison
+
+[GitHub.io Page](https://rahb-realtors-association.github.io/AreaShapefilesComparison)
